@@ -9,8 +9,8 @@ tags:
   - LLD
 ---
 
-> Hey Subject, I would like to register myself to your subscribers list. Please update me too when your state changes. Thank you.
-> <cite> Observer class </cite>
+> Hey. You can't initialize me, but you can get the only one instance of myself which is shared across your app by asking my static sub-routine. I can help you with what I can.
+> <cite> Singleton class </cite>
 
 ----
 
