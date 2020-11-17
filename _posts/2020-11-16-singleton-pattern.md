@@ -90,6 +90,7 @@ Connect, share and text me about your views. We can have some discussion :)
 ----
 
 <h3> Stay connected: </h3>
+Subscribe: <a href="https://feedburner.google.com/fb/a/mailverify?uri=BuildWithSammie&loc=en_US">Subscribe to Build with Sammie feed for newsletter by Email</a>
 
 # <i class="fab fa-fw fa-twitter-square"></i> Connect on [Twitter](https://twitter.com/sammieboy97)
 # <i class="fab fa-fw fa-linkedin"></i> Connect on [Linkedin](https://www.linkedin.com/in/samuel-johnson-r/)
