@@ -61,7 +61,7 @@ In Simple factory pattern, just three main component gets involved excluding the
 <h4> -> Concrete Product implementation </h4>
   The Concrete classes implementing the Product interface. There are the classes which are needed to be instantiated from the factory.
 <h4> -> Simple Factory class </h4>
-  The main responsibility of this class is to get the args and depending on it, create the needed the product and return to the calling method.
+  The main responsibility of this class is to get the args and depending on it, create the requested product and return it.
 
 ---
 
