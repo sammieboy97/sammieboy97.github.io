@@ -27,7 +27,7 @@ You can checkout the previous posts from [my-blog](https://www.buildwithsammie.c
 ----
 
 <h4>Ok. So how does it actually work? </h4>
-  Let's take an example of ordering a Pizza. The software takes type of the pizza and input and gets the respective pizza as output. <br>
+  Let's take an example of ordering a Pizza. The software takes type of the pizza as input and returns the respective pizza as output. <br>
   Consider there are two types of pizzas.
   <ul>
     <li> Pepperoni Pizza </li>
