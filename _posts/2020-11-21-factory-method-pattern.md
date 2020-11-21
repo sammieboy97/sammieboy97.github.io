@@ -75,6 +75,10 @@ More PizzaStores could be added extending the abstract PizzaStore class and it w
 No coupling == More Extendable. Change my mind.
 
 ----
+Ps: Special Thanks to <a target="_blank" href="https://www.amazon.in/gp/product/B07FVRS9QN/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07FVRS9QN&linkCode=as2&tag=samiemovic-21&linkId=57e26cfb293ea3ab6b47aaa98f03ad5f">Head First Design Patterns</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=samiemovic-21&l=am2&o=31&a=B07FVRS9QN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+----
 
 Thank you. Hope this helps. Looking forward to more learning and sharing. Cheers :) <br>
 Connect, share and text me about your views. We can have some discussion :)
