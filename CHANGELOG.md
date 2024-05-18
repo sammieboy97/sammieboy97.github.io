@@ -1,3 +1,15 @@
+# v0.0.3 (Sat May 18 2024)
+
+#### ⚠️ Pushed to `master`
+
+- feat: modify readme (samuel_johnson@intuit.com)
+
+#### Authors: 1
+
+- Samuel Johnson (samuel_johnson@intuit.com)
+
+---
+
 # v0.0.2 (Sat May 18 2024)
 
 
