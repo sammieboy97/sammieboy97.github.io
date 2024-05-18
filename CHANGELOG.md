@@ -1,3 +1,15 @@
+# v0.0.4 (Sat May 18 2024)
+
+#### 🐛 Bug Fix
+
+- feat: [ref] modify readme & testing auto [#1](https://github.com/sammieboy97/samueljohnson01997.github.io/pull/1) ([@sammieboy97](https://github.com/sammieboy97))
+
+#### Authors: 1
+
+- Samuel Johnson R ([@sammieboy97](https://github.com/sammieboy97))
+
+---
+
 # v0.0.3 (Sat May 18 2024)
 
 #### ⚠️ Pushed to `master`
