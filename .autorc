@@ -1,0 +1,4 @@
+{
+  "author": "Samuel Johnson <samueljohnson01997@gmail.com>",
+  "plugins": ["git-tag"]
+}
